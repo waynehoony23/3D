@@ -1,0 +1,19 @@
+{
+  "plants": [
+    {
+      "plantID": 0,
+      "plantName": "해바라기",
+      "questText": "해바라기를 관찰해 보세요."
+    },
+    {
+      "plantID": 1,
+      "plantName": "선인장",
+      "questText": "선인장을 촬영해 보세요."
+    },
+    {
+      "plantID": 2,
+      "plantName": "장미",
+      "questText": "장미꽃을 촬영해 보세요."
+    }
+  ]
+}
